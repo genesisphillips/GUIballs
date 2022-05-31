@@ -1,5 +1,5 @@
 # GUIballs
-Simple, animated balls using JAVA in eclipse
+Simple 2D balls using JAVA in eclipse
 Can control speed
 Java Fx
 
